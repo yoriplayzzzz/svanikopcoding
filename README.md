@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svanikopcoding
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and C#
+- 🌱 I’m currently learning Unreal Engine and Coding
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me 
 -- Subscribe to my channel.
