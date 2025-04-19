@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @svanikopcoding
+- 👋 Hi, I’m @yoriplayzzzz
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unreal Engine and Coding
 - 💞️ I’m looking to collaborate on Youtube
@@ -7,6 +7,6 @@
 -- Join my discord
 
 <!---
-svanikopcoding/svanikopcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yoriplayzzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
